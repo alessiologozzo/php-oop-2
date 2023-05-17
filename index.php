@@ -78,7 +78,7 @@
 
                                         <h5>$product->type</h5>
 
-                                        <h5>$product->price</h5>
+                                        <h5>$product->price €</h5>
                                     </div>
                                 </div>
                             </div>
