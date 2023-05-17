@@ -24,7 +24,7 @@
 </head>
 <body>
     <div class="container">
-        <div class="d-flex justify-content-center justify-content-sm-between align-items-center pt-4 pb-5">
+        <div class="d-flex justify-content-center justify-content-sm-between align-items-center pt-5 pt-sm-4 pb-5">
             <h1 class="d-none d-sm-block">
                 PHP OOP 2
             </h1>
