@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(53, 50, 50);
+    color: white;
+}
+
+.al-card{
+    border: 1px solid rgb(114, 109, 109);
+    border-radius: 4px;
+    box-shadow: 2px 2px 30px 2px rgb(19, 18, 18);
+    overflow: hidden;
+}
+
+img{
+    width: 100%;
+}
+
+label{
+    cursor: pointer;
+    padding: 0.2rem;
+}
+
+input[type="submit"]{
+    border: 1px solid black;
+    border-radius: 4px;
+    padding: 0.2rem 0.5rem;
+    transition: transform 300ms;
+}
+
+input[type="submit"]:hover{
+    transform: scale(1.1);
+}
